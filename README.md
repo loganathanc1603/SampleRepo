@@ -1,5 +1,5 @@
 # SampleRepo
-Sample Repository for testing
+Main branch
 
 
 
