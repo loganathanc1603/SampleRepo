@@ -10,3 +10,4 @@ git push origin main
 git pull origin main
 git fetch origin main
 git status
+git checkout origin/test
