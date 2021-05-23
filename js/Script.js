@@ -1,5 +1,5 @@
 var fnMain = function(oInt){
-    return oInt * 2;
+    return oInt * 4;
 };
 
 console.log(fnMain(2));
